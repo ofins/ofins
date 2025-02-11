@@ -1,4 +1,4 @@
-## Hi there 👋,
+## Hi there 👋
 
 <!-- 
 <h1 align="center">
@@ -6,24 +6,13 @@
 </h1> 
 -->
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
 ## 🛠️ Languages and Tools
 
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,nodejs,react,nextjs,mongodb,postgres" />
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vue,redux,git,postman,figma, jira, confluence" />
+  <img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,vue,redux,figma,html,css,sass,tailwind,vite" />
+  <img src="https://skillicons.dev/icons?i=js,ts,py,git,postman,mongodb,postgres,mysql,aws" />
 </p>
 
 <hr>
