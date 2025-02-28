@@ -5,6 +5,10 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+ofins!;" />
 </h1> 
 -->
+<ul>
+    <li>📂 Check out my portfolio at <a href="https://ofins.github.io">ofins.github.io</a></li>
+    <li>📚 I am learning automation with Python.</li>
+</ul>
 
 ## 🛠️ Languages and Tools
 
